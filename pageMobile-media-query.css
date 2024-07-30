@@ -1,0 +1,980 @@
+@media (min-width: 320px) {
+    .sub-brand video, .brand video {
+       height: 400px;
+    }
+    .sub-brand2 img {
+        height: 400px;
+        margin: 0 40px;
+    }
+   .logo img { 
+        height: 32px;
+    }
+    .sub-hero {
+        height: 14vh;
+        justify-content: center;
+    }
+    
+    .card-image {
+        max-width: 200px;
+    }
+    #media a{
+        margin-left: -50px;
+    }
+    .social-media a {
+        max-width: 30px;
+    }
+    .customer-image {
+        max-width: 60px;
+    }
+    .discover {
+        margin-left: 2px;
+        width: 50px;
+    }
+    .discover h2, .About h2, .Resources h2 {
+        line-height: 1.0;
+        font-size: 13px;
+    }
+    .About {
+        margin-left: 75px;
+        margin-top: -163px;
+    }
+    .Resources {
+        margin-top: -113px;
+        margin-left: 140px;
+    }
+    .social-media {
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .social-media h2 {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .social-media a {
+        width: 25px;
+    }
+    .Contact {
+        margin-top: 100px;
+    }
+    
+    
+}
+
+@media (min-width: 400px) {
+    .sub-hero {
+        height: 16vh;
+        justify-content: center;
+    }
+    
+    .container1 {
+        margin-left: 20px;
+    }
+    .container2 {
+        margin-left: 90px;
+    }
+    .container3 {
+        margin-left: 90px;
+    }
+    .container4 {
+        margin-left: 20px;
+    }
+    .container5 {
+        margin-left: 90px;
+    }
+    .container6 {
+        margin-left: 90px;
+    }
+    .social-media {
+        margin-left: -70px;
+        margin-top: 11px;
+    }
+   .social-media a {
+    margin-left: 400px;
+    max-width: 40px;
+   }
+   .social-media h2 {
+    margin-left: 400px;
+   }
+   .discover {
+    margin-left: 20px;
+    font-size: 10px;
+    margin-top: 30px;
+   }
+   .discover a {
+    /* font-weight: 1000; */
+   }
+   .About {
+    margin-left: 120px;
+    margin-top: -163px;
+   }
+   .Resources {
+    margin-top: -113px;
+    margin-left: 220px;
+   }
+   .Contact {
+    margin-top: 30px;
+   }
+}
+
+/* Small devices (landscape, phones and up) */
+
+@media (min-width: 576px) {
+    .logo img {
+        height: 34px;
+    }
+    .sub-hero {
+        height: 20vh;
+        justify-content: center;
+    }
+    .brand {
+        max-width: 150px;
+    }
+    .brand video {
+        margin-top: -50px;
+    }
+    .sub-brand {
+        max-width: 150px;
+        margin-left: 190px;
+        margin-top: -505px;
+    }
+    .sub-brand h2 {
+        margin-bottom: 15px;
+    }
+    .sub-brand video {
+        margin-top: -60px;
+    }
+    .sub-brand2 h2{
+        margin-bottom: 10px;
+    }
+    .sub-brand2 {
+        max-width: 150px;
+        margin-left: 360px;
+        margin-top: -551px;
+        margin-bottom: 100px;
+        /* height: 300px */
+    }
+    .sub-brand2 img {
+        margin-top: 10px;
+        height: 330px;
+        margin-left: 20px;
+        width: 160px;
+
+    }
+    .card-image {
+        max-width: 300px;
+    }
+    .container2 {
+        margin-left: 130px;
+    }
+    .container3 {
+        margin-left: 130px;
+    }
+    .container5 {
+        margin-left: 130px;
+    }
+    .container6 {
+        margin-left: 130px;
+    }
+    #media a {
+        margin-top: 620px;
+        margin-bottom: 30px;
+    }
+    .social-media {
+        margin-left: -10px;
+        margin-top: 11px;
+    }
+   .social-media a {
+    margin-left: 400px;
+    max-width: 40px;
+   }
+   .social-media h2 {
+    margin-left: 400px;
+   }
+   .discover {
+    margin-left: 20px;
+    font-size: 10px;
+    margin-top: 30px;
+   }
+   
+   .About {
+    margin-left: 140px;
+    margin-top: -163px;
+   }
+   .Resources {
+    margin-top: -113px;
+    margin-left: 240px;
+   }
+   .Contact {
+    margin-top: 60px;
+   }
+   
+   .testimonial-card, .testimonial-card2 {
+    margin: 10px;
+   }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    nav{
+        gap: 80px;
+    }
+    .logo img {
+        height: 30px;
+    }
+    .hero {
+        padding: 40px;
+    }
+    .hero a {
+        padding: 10px 25px;
+        border-radius: 10px;
+    }
+    .sub-hero {
+        height: 25vh;
+        justify-content: center;
+        margin-bottom: 60px;
+    }
+    
+    .brand {
+        max-width: 220px;
+        margin-left: 20px;
+    }
+    .brand video {
+        margin-top: 20px;
+    }
+    .brand h1, .sub-brand h2, .sub-brand2 h2 {
+        font-size: 30px;
+    }
+    .brand h3, .sub-brand h4, .sub-brand2 h4 {
+        font-size: 15px;
+    }
+    .sub-brand {
+        max-width: 220px;
+        margin-left: 270px;
+        margin-top: -666px;
+    }
+    .sub-brand video {
+        margin-top: 15px;
+    }
+    .sub-brand h4 {
+        margin-bottom: 60px;
+    }
+    .sub-brand2 {
+        max-width: 235px;
+        margin-left: 510px;
+        margin-top: -713px;
+        margin-bottom: 50px;
+        /* height: 300px */
+    }
+    .sub-brand2 img {
+        margin-top: 55px;
+        height: 390px;
+        width: 220px;
+    }
+    .collections h2 {
+        font-size: 30px;
+    }
+    .collections h4{
+        font-size: 20px;
+    }
+    .card-image {
+        max-width: 400px;
+    }
+    .container2 {
+        margin-left: 150px;
+    }
+    .container3 {
+        margin-left: 150px;
+    }
+    .container5 {
+        margin-left: 150px;
+    }
+    .container6 {
+        margin-left: 150px;
+    }
+    #media a {
+        margin-top: 600px;
+        margin-bottom: 30px;
+    }
+    #media img {
+        max-width: 300px;
+        margin-left: 50px;
+    }
+
+    #about-us h2 {
+        font-size: 30px;
+    }
+    #about-us h4{
+        font-size: 20px;
+    }
+
+    .newsletter {
+        margin-top: 5px;
+        padding: 30px;
+    }
+    .newsletter h2 {
+        font-size: 25px;
+    }
+    .newsletter input[type="email"] {
+        width: 300px;
+        padding: 20px;
+    }
+    .newsletter button {
+        padding: 20px;
+    }
+    .social-media {
+        margin-left: 200px;
+        margin-top: -143px;
+/    }
+   .social-media a {
+    margin-left: 400px;
+    max-width: 25px;
+   }
+   .social-media h2 {
+    margin-left: 400px;
+    font-size: 20px;
+   }
+   .discover {
+    margin-left: 50px;
+    font-size: 10px;
+    margin-top: 20px;
+    width: 100px;
+   }
+   .discover h2 {
+    font-size: 20px;
+   }
+   .discover a {
+    font-weight: 1000;
+    font-size: 12px;
+   }
+   .About {
+    margin-left: 240px;
+    margin-top: -140px;
+   }
+   .About h2 {
+    font-size: 20px;
+   }
+   .About a {
+    font-weight: 1000;
+    font-size: 12px;
+   }
+   .Resources {
+    margin-left: 400px;
+    margin-top: -140px;
+   }
+   .Resources h2 {
+    font-size: 20px;
+   }
+   .Resources a {
+    font-weight: 1000;
+    font-size: 12px;
+   }
+   .Contact {
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 15px;
+   }
+   
+}
+
+
+
+/* Large devices (desktop, 992px and up) */
+@media (min-width: 992px) {
+    nav {
+        padding: 20px;
+        gap: 100px;
+
+    }
+    nav a {
+        font-size: 20px;
+    }
+
+    .hero {
+        padding: 50px;
+    }
+    .hero h1 {
+        font-size: 40px;
+    }
+    .hero span {
+        font-size: 60px;
+    }
+    .hero h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .hero p {
+        font-size: 25px;
+        margin-bottom: 10px;
+    }
+    
+    .hero a {
+        padding: 15px 85px;
+        border-radius: 10px;
+    }
+    
+    .sub-hero {
+        height: 28vh;
+        justify-content: center;
+    }
+    .sub-hero img {
+        height: 30vh;
+    }
+    .brand {
+        max-width: 290px;
+        margin-top: 50px;
+        margin-left: 20px;
+    }
+    .brand h1 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .brand h3 {
+        font-size: 15px;
+    }
+    .sub-brand {
+        max-width: 290px;
+        margin-left: 350px;
+        margin-top: -600px;
+    }
+    .sub-brand video {
+        margin-top: 5px;
+    }
+     .sub-brand h2 {
+        font-size: 25px;
+    }
+    .sub-brand h4 {
+        margin-bottom: 45px;
+        font-size: 15px;
+    }
+    .sub-brand2 {
+        max-width: 310px;
+        margin-left: 670px;
+        margin-top: -640px;
+        margin-bottom: 50px;
+        /* height: 300px */
+    }
+    .sub-brand2 h2 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .sub-brand2 h4{
+        font-size: 15px;
+        margin-bottom: 60px;
+    }
+    .sub-brand2 img {
+        margin-top: 5px;
+        height: 410px;
+        width: 250px;
+    }
+    
+    .collections h2 {
+        font-size: 25px;
+    }
+    .collections h4{
+        margin: 20px 100px;
+        font-size: 15px;
+    }
+    
+    .card-image {
+        max-width: 600px;
+    }
+    .container1 {
+        margin-left: 100px;
+    }
+    .container2 {
+        margin-left: 190px;
+    }
+    .container3 {
+        margin-left: 190px;
+    }
+    .container4 {
+        margin-left: 100px;
+    }
+    .container5 {
+        margin-left: 190px;
+    }
+    .container6 {
+        margin-left: 170px;
+    }
+    #media img {
+        max-width: 400px;
+    }
+    #media a {
+        /* padding: 30px; */
+        margin-top: 800px;
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+     #media span {
+        font-size: 35px;
+     }
+
+    #about-us h2 {
+        font-size: 25px;
+    }
+    #about-us h4{
+        font-size: 15px;
+        margin: 10px 100px;
+    }
+    /* reviews section */
+    #reviews h2{
+        font-size: 25px;
+    }
+    .customer-image  {
+        max-width: 100px;
+    }
+    .customer-name {
+        font-size: 15px;
+    }
+
+    .testimonial-text {
+        font-size: 15px;
+    }
+
+    .customer-rating {
+        font-size: 2.0rem;
+    }
+   
+    .newsletter {
+        margin-top: 5px;
+        padding: 20px;
+        margin-bottom: 50px;
+    }
+    .newsletter h2 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .newsletter input[type="email"] {
+        width: 300px;
+        padding: 15px;
+    }
+    .newsletter button {
+        padding: 15px;
+    }
+    .social-media {
+        margin-left: 400px;
+        margin-top: -177px;
+    }
+   .social-media a {
+    max-width: 30px;
+   }
+   .social-media h2 {
+    margin-left: 400px;
+    font-size: 25px;
+   }
+   .discover {
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 200px;
+   }
+   .discover h2 {
+    font-size: 25px;
+   }
+   .discover a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .About {
+    margin-left: 300px;
+    margin-top: -175px;
+    width: 200px;
+   }
+   .About h2 {
+    font-size: 25px;
+   }
+   .About a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .Resources {
+    margin-left: 500px;
+    margin-top: -175px;
+    width: 200px;
+   }
+   .Resources h2 {
+    font-size: 25px;
+   }
+   .Resources a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .Contact {
+    margin-left: 70px;
+    margin-top: 50px;
+    font-size: 10px;
+    padding: 10px;
+   }
+   .Contact h2 {
+    font-size: 15px;
+   }
+   
+   .Contact p {
+    font-size: 15px;
+   }
+}
+
+/* Large extra devices (desktop, 1200px and above ) */
+@media (min-width: 1200px) {
+    .logo img {
+        height: 50px;
+    }
+    .sub-hero {
+        /* max-width: 100px; */
+        height: 40vh;
+        justify-content: center;
+    }
+    .sub-hero img {
+        max-width: 1000px;
+        margin-top: 50px;
+        align-items: center;
+        justify-content: center;
+        height: 40vh;
+    }
+
+    .brand {
+        max-width: 390px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    .brand h1 {
+        margin-bottom: 10px;
+        font-size: 30px;
+    }
+    .brand h3 {
+        font-size: 20px;
+    }
+    .brand video {
+        margin-top: 40px;
+    }
+    .sub-brand {
+        max-width: 390px;
+        margin-left: 440px;
+        margin-top: -635px;
+    }
+    .sub-brand video {
+        margin-top: 1px;
+    }
+     .sub-brand h2 {
+        font-size: 30px;
+    }
+    .sub-brand h4 {
+        margin-bottom: 25px;
+        font-size: 20px;
+    }
+    .sub-brand2 {
+        max-width: 380px;
+        margin-left: 860px;
+        margin-top: -680px;
+        margin-bottom: 50px;
+        /* height: 300px */
+    }
+    .sub-brand2 img {
+        margin-top: -25px;
+        margin-left: 10px;
+        width: 330px;
+    }
+    .sub-brand2 h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .sub-brand2 h4{
+        font-size: 20px;
+        margin-bottom: 70px;
+    }
+    .collections h2 {
+        font-size: 25px;
+    }
+    .collections h4{
+        margin: 20px 150px;
+        font-size: 15px;
+    }
+
+    .card-image {
+        margin-top: 50px;
+        max-width: 600px;
+    }
+    .container1 {
+        margin-left: 100px;
+    }
+    .container2 {
+        margin-left: 220px;
+    }
+    .container3 {
+        margin-left: 220px;
+    }
+    .container4 {
+        margin-left: 100px;
+    }
+    .container5 {
+        margin-left: 210px;
+    }
+    .container6 {
+        margin-left: 170px;
+    }
+    #media a {
+        margin-top: 800px;
+        margin-bottom: 40px;
+        font-size: 35px;
+    }
+     #media span {
+        font-size: 35px;
+     }
+     #about-us {
+        margin: 50px;
+        margin-bottom: 50px;
+     }
+
+    /* reviews section */
+    
+    .customer-image  {
+        max-width: 200px;
+    }
+    .customer-name {
+        font-size: 25px;
+    }
+
+    .testimonial-text {
+        font-size: 25px;
+    }
+
+    .customer-rating {
+        font-size: 2.0rem;
+    }
+
+    .newsletter {
+        margin-top: 5px;
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .newsletter h2 {
+        margin-bottom: 5px;
+    }
+    .newsletter input[type="email"] {
+        width: 300px;
+        padding: 15px;
+    }
+    .newsletter button {
+        padding: 15px;
+    }
+
+    .social-media {
+        margin-left: 600px;
+        margin-top: -176px;
+    }
+   .social-media a {
+    max-width: 30px;
+   }
+   .social-media h2 {
+    margin-left: 400px;
+    font-size: 25px;
+   }
+   .discover {
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 200px;
+   }
+   .discover h2 {
+    font-size: 25px;
+   }
+   .discover a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .About {
+    margin-left: 500px;
+    margin-top: -175px;
+    width: 200px;
+   }
+   .About h2 {
+    font-size: 25px;
+   }
+   .About a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .Resources {
+    margin-left: 700px;
+    margin-top: -175px;
+    width: 200px;
+   }
+   .Resources h2 {
+    font-size: 25px;
+   }
+   .Resources a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .Contact {
+    margin-left: 10px;
+    margin-top: 50px;
+    font-size: 10px;
+    padding: 20px;
+   }
+   .Contact h2 {
+    font-size: 15px;
+   }
+}
+
+/* Extra Extra large devices (desktop, 1400px and up) */
+@media (min-width: 1400px) {
+    
+    .sub-hero {
+        height: 40vh;
+        margin-bottom: 100px;
+
+    }
+    
+    .brand {
+        max-width: 400px;
+        /* margin-top: 10px; */
+        margin-left: 20px;
+    }
+    .brand h1 {
+        margin-bottom: 10px;
+        font-size: 30px;
+    }
+    .brand h3 {
+        font-size: 20px;
+    }
+    .sub-brand {
+        max-width: 400px;
+        margin-left: 470px;
+        margin-top: -635px;
+    }
+    .sub-brand video {
+        margin-top: 20px;
+    }
+     .sub-brand h2 {
+        font-size: 30px;
+    }
+    .sub-brand h4 {
+        margin-bottom: 25px;
+        font-size: 20px;
+    }
+    .sub-brand2 {
+        max-width: 430px;
+        margin-left: 920px;
+        margin-top: -675px;
+        margin-bottom: 50px;
+        /* height: 300px */
+    }
+    .sub-brand2 h2 {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .sub-brand2 h4{
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    .sub-brand2 img {
+        margin-top: 10px;
+    }
+    .collections h2 {
+        margin-top: 50px;
+        font-size: 25px;
+    }
+    .collections h4{
+        margin: 20px 150px;
+        font-size: 15px;
+    }
+    .container1 {
+        margin-left: 200px;
+    }
+    .container2 {
+        margin-left: 220px;
+    }
+    .container3 {
+        margin-left: 220px;
+    }
+    .container4 {
+        margin-left: 200px;
+    }
+    .container5 {
+        margin-left: 210px;
+    }
+    .container6 {
+        margin-left: 170px;
+    }
+
+    #media img {
+        max-width: 1000px;
+    }
+    #media a {
+        margin-top: 1250px;
+    }
+    
+
+    /* reviews section */
+    .newsletter {
+        margin-top: 5px;
+        padding: 20px;
+        margin-bottom: 10px;
+    }
+    .newsletter h2 {
+        margin-bottom: 5px;
+    }
+    .newsletter input[type="email"] {
+        width: 300px;
+        padding: 15px;
+    }
+    .newsletter button {
+        padding: 15px;
+    }
+
+    .social-media {
+        margin-left: 700px;
+        margin-top: -175px;
+    }
+   .social-media a {
+    max-width: 40px;
+   }
+   .social-media h2 {
+    margin-left: 400px;
+    font-size: 25px;
+   }
+   .discover {
+    margin-left: 200px;
+    margin-top: 20px;
+    width: 200px;
+   }
+   .discover h2 {
+    font-size: 25px;
+   }
+   .discover a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .About {
+    margin-left: 500px;
+    margin-top: -175px;
+    width: 200px;
+   }
+   .About h2 {
+    font-size: 25px;
+   }
+   .About a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .Resources {
+    margin-left: 800px;
+    margin-top: -175px;
+    width: 200px;
+   }
+   .Resources h2 {
+    font-size: 25px;
+   }
+   .Resources a {
+    font-weight: 1000;
+    font-size: 15px;
+   }
+   .Contact {
+    margin-left: 10px;
+    margin-top: 50px;
+    font-size: 10px;
+   }
+   .Contact h2 {
+    font-size: 15px;
+   }
+   
+}

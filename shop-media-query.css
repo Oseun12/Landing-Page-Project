@@ -1,0 +1,409 @@
+@media (min-width: 576px) {
+    nav {
+        gap: 30px;
+    }
+    #Suit {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container1, .container2, .container3, .container4, .container5, .container7, .container8, .container9, .container10, .container11, .container12, .container13, .container14, .container15, .container16, .container17, .container18, .container19, .container20, .container21, .container22 {
+        max-width: 300px;
+    }
+    .container6 {
+        max-width: 280px;
+    }
+    
+    #Suit2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit4 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit5 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+/* Kaftan section */
+    #Kaftan {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Kaftan2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Kaftan3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* vintage section */
+    #vintage {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #vintage2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #vintage3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-caption button {
+        padding: 10px 50px;
+        font-size: 15px;
+    }
+
+    #Safari {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+/* large screen 768px and up */
+@media (min-width: 768px) {
+    nav {
+        gap: 70px;
+    }
+    #Suit {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container1, .container3, .container5, .container8, .container9, .container12, .container14, .container16, .container18, .container19, .container20, .container21, .container22 {
+        max-width: 500px;
+    }
+    .container2 {
+        max-width: 390px;
+    }
+    .container4 {
+        max-width: 380px;
+    }
+    .container6 {
+        max-width: 370px;
+    }
+
+    .container7{
+        max-width: 380px;
+    }
+    .container10 {
+        max-width: 390px;
+    }
+    .container11 {
+        max-width: 390px;
+    }
+    .container13 {
+        max-width: 385px;
+    }
+    .container15 {
+        max-width: 365px;
+    }
+    .container17 {
+        max-width: 385px;
+    }
+    
+    
+    #Suit2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit4 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit5 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+/* Kaftan section */
+    #Kaftan {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Kaftan2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Kaftan3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* vintage section */
+    #vintage {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #vintage2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #vintage3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-caption button {
+        padding: 10px 50px;
+        font-size: 15px;
+    }
+
+    #Safari {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+/* Large devices 850px and up */
+@media(min-width: 850px) {
+    .container3, .container5, .container8, .container9, .container12, .container14, .container16, .container18, .container19, .container20, .container21, .container22 {
+        max-width: 400px;
+    }
+    .container1{
+        max-width: 380px;
+    }
+    .container2 {
+        max-width: 390px;
+    }
+    .container4 {
+        max-width: 380px;
+    }
+    .container6 {
+        max-width: 380px;
+    }
+
+    .container7{
+        max-width: 390px;
+    }
+    .container10 {
+        max-width: 410px;
+    }
+    .container11 {
+        max-width: 415px;
+    }
+    .container13 {
+        max-width: 395px;
+    }
+    .container15 {
+        max-width: 365px;
+    }
+    .container17 {
+        max-width: 405px;
+    }
+}
+
+/* Large devices desktop (992px and up)*/
+@media (min-width: 992px) {
+    nav {
+        gap: 70px;
+    }
+    .logo img {
+        width: 50px;
+        height: 50px;
+    }
+    #Suit {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .container1, .container3, .container5, .container8, .container9, .container12, .container14, .container16, .container18, .container19, .container20, .container21, .container22 {
+        max-width: 500px;
+    }
+    .container2 {
+        max-width: 510px;
+    }
+    .container4 {
+        max-width: 480px;
+    }
+    .container6 {
+        max-width: 470px;
+    }
+
+    .container7{
+        max-width: 480px;
+    }
+    .container10 {
+        max-width: 500px;
+    }
+    .container11 {
+        max-width: 510px;
+    }
+    .container13 {
+        max-width: 495px;
+    }
+    .container15 {
+        max-width: 465px;
+    }
+    .container17 {
+        max-width: 495px;
+    }
+    
+    
+    #Suit2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit4 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Suit5 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+/* Kaftan section */
+    #Kaftan {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Kaftan2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Kaftan3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* vintage section */
+    #vintage {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #vintage2 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #vintage3 {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .card-caption button {
+        padding: 10px 50px;
+        font-size: 15px;
+    }
+
+    #Safari {
+        margin-top: 100px;
+        width: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

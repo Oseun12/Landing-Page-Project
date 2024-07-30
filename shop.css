@@ -1,0 +1,336 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5faf5;
+}
+
+nav {
+    background-color: rgb(226, 226, 211);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+nav a {
+    color: black;
+    text-decoration: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+nav_a:hover {
+    text-decoration: underline;
+}
+
+/* Logo section */
+.logo {
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo img {
+    position: absolute;
+    width: 40px;
+    left: -60px;
+    top: -9px;
+}
+
+.welcome {
+    text-align: center;
+    margin-top: 20px;
+    /* margin-bottom: 50px; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(138, 136, 117);
+}
+
+
+/* Suit section */
+#Suit {
+    margin-top: 50px;
+    width: auto;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+.container1 {
+    width: auto;
+    /* max-width: 800px; */
+    padding: 20px;
+}
+.container2 {
+    width: auto;
+    /* max-width: 800px; */
+    padding: 20px;
+}
+
+.card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+    overflow: hidden;
+    text-align: center;
+    transition: transform 2.3s, box-shadow 0.3s;
+    width: auto;
+}
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
+.card-image {
+    width: 50%;
+    height: auto;
+    /* display: fle; */
+}
+
+.card-caption {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis; 
+}
+
+.card-caption h6 {
+    margin: 5px 0;
+    font-size: 1em;
+    color: #333;
+}
+.card-caption h4 {
+    margin: 5px 0;
+    font-size: 25px;
+    color: #333;
+}
+
+.card-caption button {
+    border-radius: 5px;
+    padding: 10px 100px;
+    background-color: #9c822b;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color 0.3s, transform 0.3s;
+    font-weight: 1000;
+}
+
+.card-caption button:hover {
+    background-color: #e6c7c7;
+    transform: scale(1.05);
+}
+
+
+
+.card-caption .color,
+.card-caption .price {
+    font-size: 1em;
+    color: #444;
+    margin-bottom: 5px;
+}
+
+
+#Suit2 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+.container3 {
+    width: auto;
+    /* max-width: 800px; */
+    padding: 20px;
+}
+
+.container4 {
+    width: auto;
+    padding: 20px;
+}
+#Suit3 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+
+
+.container5 {
+    width: auto;
+    padding: 20px;
+}
+.container6 {
+    width: auto;
+    padding: 20px;
+}
+
+#Suit4 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+.container7 {
+    width: auto;
+    padding: 20px;
+}
+.container8 {
+    width: auto;
+    padding: 20px;
+}
+#Suit5 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+.container9 {
+    width: auto;
+    max-width: auto;
+    padding: 20px;
+}
+.container10 {
+    width: auto;
+    max-width: auto;
+    padding: 20px;
+}
+
+/* Kaftan section */
+#Kaftan {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+.container11 {
+    width: auto;
+    padding: 20px;
+}
+.container12 {
+    width: auto;
+    padding: 20px;
+}
+#Kaftan2 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+.container13 {
+    width: auto;
+    padding: 20px;
+}
+.container14 {
+    width: auto;
+    padding: 20px;
+}
+
+#Kaftan3 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+.container15 {
+    width: auto;
+    padding: 20px;
+}
+.container16 {
+    width: auto;
+    padding: 20px;
+}
+
+.container17 {
+    width: auto;
+    padding: 20px;
+}
+.container18 {
+    width: auto;
+    padding: 20px;
+}
+.container19 {
+    width: auto;
+    padding: 20px;
+}
+.container20 {
+    width: auto;
+    padding: 20px;
+}
+.container21 {
+    width: auto;
+    padding: 20px;
+}
+
+.container22 {
+    width: auto;
+    padding: 20px;
+}
+
+.container23 {
+    width: auto;
+    padding: 20px;
+}
+
+/* #Kaftan2 {
+    margin-top: 100px;
+    width: auto;
+    
+    align-items: center;
+}
+
+ */
+
+#vintage {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+
+#vintage2 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+#vintage3 {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+
+#Safari {
+    margin-top: 100px;
+    width: auto;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+}
+.container24 {
+    width: auto;
+    padding: 20px;
+}
+
+

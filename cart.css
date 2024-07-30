@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5faf5;
+}
+
+nav {
+    padding: 20px;
+    background-color: rgb(226, 226, 211);
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+#cart {
+    border: 1px solid #ccc;
+    /* display: flex; */
+    /* justify-content: center; */
+    padding: 10px 10px;
+    margin-top: 20px;
+}
+#cart h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* align-items: center; */
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.cart-item img {
+    width: 200px;
+    height: 30vh;
+    margin-right: 10px;
+}
+
+.cart-item h6 {
+    margin: 0;
+    flex-grow: 1;
+}
+
+.cart-item h4 {
+    margin: 0;
+}
+
+#cart button {
+    background-color: rgb(226, 226, 211);
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+/* https://wbj6wsqs-5500.uks1.devtunnels.ms/ */
