@@ -230,7 +230,7 @@
         border-radius: 10px;
     }
     .sub-hero {
-        height: 30vh;
+        height: 28vh;
         justify-content: center;
         margin-bottom: 60px;
     }
@@ -413,7 +413,7 @@
     }
     
     .sub-hero {
-        height: 40vh;
+        height: 35vh;
         justify-content: center;
     }
     
@@ -620,7 +620,7 @@
     }
     .sub-hero {
         margin-bottom: 15px;
-        height: 50vh;
+        height: 45vh;
         justify-content: center;
     }
     
@@ -812,7 +812,7 @@
 @media (min-width: 1400px) {
    
     .sub-hero {
-        height: 60vh;
+        height: 55vh;
         margin-bottom: 10px;
 
     }
