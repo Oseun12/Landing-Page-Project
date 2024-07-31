@@ -7,7 +7,7 @@
         margin: 0 40px;
     }
    .logo img { 
-        height: 32px;
+        height: 30px;
     }
     .sub-hero {
         height: 14vh;
@@ -230,7 +230,7 @@
         border-radius: 10px;
     }
     .sub-hero {
-        height: 25vh;
+        height: 30vh;
         justify-content: center;
         margin-bottom: 60px;
     }
@@ -413,12 +413,10 @@
     }
     
     .sub-hero {
-        height: 28vh;
+        height: 40vh;
         justify-content: center;
     }
-    .sub-hero img {
-        height: 30vh;
-    }
+    
     .brand {
         max-width: 290px;
         margin-top: 50px;
@@ -621,8 +619,8 @@
         margin-bottom: 30px;
     }
     .sub-hero {
-        margin-bottom: 10px;
-        height: 40vh;
+        margin-bottom: 15px;
+        height: 50vh;
         justify-content: center;
     }
     
@@ -814,7 +812,7 @@
 @media (min-width: 1400px) {
    
     .sub-hero {
-        height: 40vh;
+        height: 60vh;
         margin-bottom: 10px;
 
     }
