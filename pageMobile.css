@@ -229,7 +229,6 @@ span {
 #media {
   margin-top: -10px;
   display: flex;
-  /* justify-content: center; */
 }
 .container1 {
   top: 200px;
@@ -251,40 +250,29 @@ span {
 }
 
 .container2 {
-  /* position: relative; */
   top: 3px;
   display: flex;
   width: auto;
   margin-left: 60px;
-  /* left: 70px; */
 }
 
 .container3 {
-  /* position: relative; */
-  /* top: 3px; */
   display: flex;
   width: auto;
   margin-left: 60px;
-  /* left: 70px; */
 }
 .container4 {
-  /* position: relative; */
   display: flex;
   margin-top: 100px;
   width: auto;
 }
 .container5 {
-  /* position: relative; */
-  /* top: 1000px; */
   margin-left: 60px;
   display: flex;
   margin-top: 100px;
   width: auto;
-  /* left: -80px; */
 }
 .container6 {
-  /* position: relative; */
-  /* top: 1000px; */
   display: flex;
   margin-top: 100px;
   margin-left: 50px;
@@ -293,8 +281,6 @@ span {
 }
 
 #media a {
-  /* position: relative; */
-  /* top: 2200px; */
   text-align: center;
   display: flex;
   text-align: center;
