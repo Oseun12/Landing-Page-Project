@@ -103,8 +103,8 @@ a {
 }
 @media (min-width: 1400px) {
   a {
-    padding: 20px;
-    margin: 100px 1000px;
+    padding: 30px;
+    margin: 100px 600px;
     text-align: center;
     border-radius: 10px;
     display: flex;
