@@ -223,6 +223,7 @@
     }
     .hero {
         padding: 40px;
+        margin-bottom: 20px;
     }
     .hero a {
         padding: 10px 25px;
@@ -391,6 +392,7 @@
 
     .hero {
         padding: 50px;
+        margin-bottom: 20px;
     }
     .hero h1 {
         font-size: 40px;
@@ -618,19 +620,15 @@
     .logo img {
         height: 50px;
     }
+    .hero {
+        margin-bottom: 30px;
+    }
     .sub-hero {
-        /* max-width: 100px; */
+        margin-bottom: 10px;
         height: 40vh;
         justify-content: center;
     }
-    .sub-hero img {
-        max-width: 1000px;
-        margin-top: 50px;
-        align-items: center;
-        justify-content: center;
-        height: 40vh;
-    }
-
+    
     .brand {
         max-width: 390px;
         margin-top: 20px;
@@ -817,10 +815,10 @@
 
 /* Extra Extra large devices (desktop, 1400px and up) */
 @media (min-width: 1400px) {
-    
+   
     .sub-hero {
         height: 40vh;
-        margin-bottom: 100px;
+        margin-bottom: 10px;
 
     }
     
